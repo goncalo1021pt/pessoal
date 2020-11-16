@@ -1,0 +1,3 @@
+D:/Documentos/documentos/minho/programacao/Calculadora/cmake-build-debug/CMakeFiles/Calculadora.dir
+D:/Documentos/documentos/minho/programacao/Calculadora/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentos/documentos/minho/programacao/Calculadora/cmake-build-debug/CMakeFiles/rebuild_cache.dir
